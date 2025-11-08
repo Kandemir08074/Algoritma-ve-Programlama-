@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\bin\Debug\net8.0\Algoritma Ödev - 2.exe
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\bin\Debug\net8.0\Algoritma Ödev - 2.deps.json
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\bin\Debug\net8.0\Algoritma Ödev - 2.runtimeconfig.json
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\bin\Debug\net8.0\Algoritma Ödev - 2.dll
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\bin\Debug\net8.0\Algoritma Ödev - 2.pdb
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\obj\Debug\net8.0\Algoritma Ödev - 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\obj\Debug\net8.0\Algoritma Ödev - 2.AssemblyInfoInputs.cache
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\obj\Debug\net8.0\Algoritma Ödev - 2.AssemblyInfo.cs
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\obj\Debug\net8.0\Algoritma Ödev - 2.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\obj\Debug\net8.0\Algoritma Ödev - 2.dll
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\obj\Debug\net8.0\refint\Algoritma Ödev - 2.dll
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\obj\Debug\net8.0\Algoritma Ödev - 2.pdb
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\obj\Debug\net8.0\Algoritma Ödev - 2.genruntimeconfig.cache
+C:\Users\Mert\source\repos\Algoritma Ödev - 2\Algoritma Ödev - 2\obj\Debug\net8.0\ref\Algoritma Ödev - 2.dll
